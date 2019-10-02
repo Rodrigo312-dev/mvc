@@ -1,1 +1,2 @@
-<? php header('localhost:/index.html');
+<? php header('Location:/index.html');
+
